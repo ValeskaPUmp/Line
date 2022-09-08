@@ -1,0 +1,6 @@
+C:\Users\Валентин\RiderProjects\Line\Line\bin\Debug\Line.exe
+C:\Users\Валентин\RiderProjects\Line\Line\bin\Debug\Line.pdb
+C:\Users\Валентин\RiderProjects\Line\Line\obj\Debug\Line.csproj.AssemblyReference.cache
+C:\Users\Валентин\RiderProjects\Line\Line\obj\Debug\Line.csproj.CoreCompileInputs.cache
+C:\Users\Валентин\RiderProjects\Line\Line\obj\Debug\Line.exe
+C:\Users\Валентин\RiderProjects\Line\Line\obj\Debug\Line.pdb
